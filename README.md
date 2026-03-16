@@ -101,18 +101,8 @@ Built using **Next.js**
 
 ## 🌐 Connect With Me
 
-💼 Let's build something amazing together!
-
-🔗 GitHub: [ajaykhalate2019](https://github.com/ajaykhalate2019)
-💼 LinkedIn: [Ajay Khalate](https://www.linkedin.com/in/ajay-khalate-36516a233/)
-📧 Email: [ajaykhalate2019@gmail.com](mailto:ajaykhalate2019@gmail.com)
-
-## 🌐 Connect With Me
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ajaykhalate2019)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-khalate-36516a233/)
-
 [![Email](https://img.shields.io/badge/Email-ajaykhalate2019@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ajaykhalate2019@gmail.com)
 ---
 
