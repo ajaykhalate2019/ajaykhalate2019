@@ -1,76 +1,54 @@
-# 👋 Hi, I'm Ajay Khalate
+<h1 align="center">Hi 👋, I'm Ajay Khalate</h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" /> </p>
+🎨 Developer Banner
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Ajay%20Khalate&fontSize=40&fontColor=ffffff&animation=fadeIn" /> </p>
+👨‍💻 About Me
 
-🚀 **Frontend Developer \| React & Next.js Enthusiast**
+💻 Frontend Developer passionate about modern web technologies
+⚛️ Specialized in React and Next.js
+📦 Experience with Kibo Commerce Order Management lifecycle
+🚀 Interested in building scalable UI architectures
+📚 Always learning new tools and frameworks
 
-Welcome to my GitHub profile!\
-I'm passionate about building **modern, scalable, and high‑performance
-web applications** and turning ideas into real digital experiences.
+🚀 Tech Stack
+Frontend
 
-------------------------------------------------------------------------
+Tools
 
-## 🌟 About Me
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/> </p>
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"> </p>
 
-💻 Frontend Developer focused on modern web technologies\
-⚛️ Specialized in **React** and **Next.js**\
-📦 Experience with **Kibo Commerce OMS lifecycle**\
-🎯 Interested in performance optimization and reusable components\
-📚 Constantly learning and improving my development skills
+🚀 Featured Project
+🛒 Kibo Sandbox E-Commerce Frontend
 
-------------------------------------------------------------------------
+Built using Next.js
 
-## 🛠️ Tech Stack
+Features:
 
-### 🚀 Frontend
+✔️ Product catalog
+✔️ Category listing
+✔️ Cart functionality
+✔️ Responsive UI components
+✔️ Product → Cart → Checkout → Order lifecycle understanding
 
--   React
--   Next.js
--   JavaScript
--   HTML5
--   CSS3
--   Tailwind CSS
+📚 Currently Learning
 
-### 🔧 Tools & Platforms
+📌 Advanced **Next.js Architecture
+📌 Performance optimization in React
+📌 Scalable frontend project structures
 
--   GitHub
--   REST APIs
--   Node.js
--   VS Code
+🌐 Connect With Me
 
-------------------------------------------------------------------------
+💼 Let's build something amazing together!
 
-## 🚀 Featured Project
+🔗 GitHub: https://github.com/YOUR_USERNAME
 
-### 🛒 E‑Commerce Frontend (Kibo Sandbox)
+💼 LinkedIn: Add your LinkedIn
+📧 Email: your-email@example.com
 
--   Built responsive UI using **Next.js**
--   Displayed product catalog and category pages
--   Implemented cart functionality
--   Explored full flow: **Product → Cart → Checkout → Order (OMS)**
-
-------------------------------------------------------------------------
-
-## 📚 Currently Learning
-
--   Advanced Next.js Architecture\
--   React Performance Optimization\
--   Scalable Frontend Project Structure
-
-------------------------------------------------------------------------
-
-## 🤝 Connect With Me
-
-💼 Let's build something amazing together.
-
--   GitHub: https://github.com/
--   LinkedIn: Add your LinkedIn link
--   Email: your-email@example.com
-
-------------------------------------------------------------------------
-
-## ⚡ Fun Fact
-
-> "First, solve the problem. Then, write the code."
-
-------------------------------------------------------------------------
-
-⭐ If you like my projects, consider giving them a **star**!
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" /> </p>
