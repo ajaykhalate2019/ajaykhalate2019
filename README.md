@@ -7,13 +7,31 @@
 💻 Frontend Developer passionate about modern web technologies
 ⚛️ Specialized in React and Next.js
 📦 Experience with Kibo Commerce Order Management lifecycle
-🚀 Interested in building scalable UI architectures
-📚 Always learning new tools and frameworks
+🎯 Passionate about UI performance, reusable components, and clean architecture
+📚 Always learning new technologies and improving development skills
 
-🚀 Tech Stack
-Frontend
+🛠️ Tech Stack
+🚀 Frontend
 
-Tools
+⚛️ React
+
+▲ Next.js
+
+🟨 JavaScript / TypeScript
+
+🎨 HTML5 / CSS3
+
+💨 Tailwind CSS
+
+🔧 Tools & Platforms
+
+🧑‍💻 GitHub
+
+🔗 REST APIs
+
+📦 Node.js
+
+🧰 VS Code
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/> </p>
@@ -45,10 +63,10 @@ Features:
 
 💼 Let's build something amazing together!
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/ajaykhalate2019
 
 💼 LinkedIn: Add your LinkedIn
-📧 Email: your-email@example.com
+📧 Email: ajaykhalate2019@gmail.com
 
 👀 Profile Visitors
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" /> </p>
