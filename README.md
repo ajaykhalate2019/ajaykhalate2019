@@ -104,7 +104,7 @@ Built using **Next.js**
 💼 Let's build something amazing together!
 
 🔗 GitHub: https://github.com/ajaykhalate2019  
-💼 LinkedIn: Add your LinkedIn  
+💼 LinkedIn:[https://www.linkedin.com/in/ajay-khalate-36516a233/]
 📧 Email: ajaykhalate2019@gmail.com  
 
 ---
